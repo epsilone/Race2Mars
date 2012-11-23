@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scenes\Cutscenes\ArrivingSpaceStationCutScene.js">
+    <Files>
+      <File FileName="Assets\Scenes\Cutscenes\ArrivingSpaceStationCutScene.js" Line="34" Column="64" />
+      <File FileName="Assets\GUI\RoadsideAssistance.js" Line="121" Column="2" />
+      <File FileName="Assets\GUI\GotoSpaceStation.js" Line="65" Column="75" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

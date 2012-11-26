@@ -67,6 +67,7 @@
      <Compile Include="Assets\SpaceShip\FlashSpaceShipLight.js" />
      <Compile Include="Assets\SpaceShip\SpaceShipControls.js" />
      <Compile Include="Assets\SpaceShip\SpeedBoostCounter.js" />
+     <Compile Include="Assets\SpaceShipConfiguration.js" />
      <Compile Include="Assets\StageEnd\StageEnd.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FirstPersonControl.js" />

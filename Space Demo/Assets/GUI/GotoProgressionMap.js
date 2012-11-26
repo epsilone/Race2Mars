@@ -67,7 +67,6 @@ GUI.depth = GUIDEPTH;
     }
     
     if(NewGame == true){
-    NewGame = false;
     Application.LoadLevelAsync("InitialLaunchTransition");
     }
     

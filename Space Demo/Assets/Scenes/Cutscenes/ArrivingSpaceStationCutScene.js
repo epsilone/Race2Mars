@@ -60,7 +60,7 @@ LoadScene();
 function LoadScene(){
 
 if(ScenetoLoad.ScenetoLoad != "null" && ScenetoLoad.ScenetoLoad != null){
-Application.LoadLevelAsync(ScenetoLoad.ScenetoLoad);
+Application.LoadLevel(ScenetoLoad.ScenetoLoad);
 }
 
 }

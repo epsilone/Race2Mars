@@ -9,7 +9,7 @@ function Update () {
 //tidy this up to make it correlate to the actual speed boost used on asteroids
 if (GameObject.Find("Asteroid1").GetComponent(Asteroids).SpeedBoost ==true)
 {
-SPEED = 5;
+SPEED = 10;
 }
 else
 {

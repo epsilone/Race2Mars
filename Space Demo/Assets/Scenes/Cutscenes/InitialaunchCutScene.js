@@ -9,6 +9,7 @@ var Rocket2 : GameObject;
 function Start () {
 Cutscene = true;
 counter = 0;
+   GotoProgressionMap.NewGame = false;
 }
 
 function FixedUpdate(){

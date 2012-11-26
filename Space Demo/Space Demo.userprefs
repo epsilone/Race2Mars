@@ -1,10 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scenes\Cutscenes\ArrivingSpaceStationCutScene.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpaceShipConfiguration.js">
     <Files>
-      <File FileName="Assets\Scenes\Cutscenes\ArrivingSpaceStationCutScene.js" Line="34" Column="64" />
-      <File FileName="Assets\GUI\RoadsideAssistance.js" Line="121" Column="2" />
-      <File FileName="Assets\GUI\GotoSpaceStation.js" Line="65" Column="75" />
+      <File FileName="Assets\SpaceShipConfiguration.js" Line="88" Column="1" />
+      <File FileName="Assets\Scenes\Cutscenes\ProgressiontoSpaceRoad.js" Line="59" Column="2" />
+      <File FileName="Assets\Scenes\Cutscenes\ArrivingSpaceStationCutScene.js" Line="1" Column="1" />
+      <File FileName="Assets\GUI\RoadsideAssistance.js" Line="1" Column="1" />
+      <File FileName="Assets\GUI\GotoSpaceStation.js" Line="1" Column="1" />
+      <File FileName="Assets\Progression\KMCounter.js" Line="1" Column="1" />
+      <File FileName="Assets\SpaceShip\SpeedBoostCounter.js" Line="1" Column="1" />
+      <File FileName="Assets\Asteroids\Asteroids.js" Line="1" Column="1" />
+      <File FileName="Assets\GUI\GotoProgressionMap.js" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Cutscenes\InitialaunchCutScene.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

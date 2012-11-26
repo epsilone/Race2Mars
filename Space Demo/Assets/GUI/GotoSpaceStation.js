@@ -14,6 +14,7 @@ var TextPosy = 0.000;
 var TextWidth = 0.000;
 var TextHeight = 0.000;
 var GUIDEPTH = 0;
+var Plinth = false;
 
 private var Image_Posx = 0;
 private var Image_Posy = 0;
@@ -25,10 +26,10 @@ private var Text_Posy = 0;
 private var Text_Width = 0;
 private var Text_Height = 0;
 
-var Plinth = false;
 
 function Start () {
 GameObject.Find("SpaceShipPlinthDummy").transform.position.y = 3.7;
+Plinth = false;
 }
 
 function Update () {
@@ -50,7 +51,6 @@ function FixedUpdate(){
 if(Application.loadedLevelName == "Shop"){
 
 if (Plinth == false){
-
    if(GameObject.Find("SpaceShipPlinthDummy").transform.position.y > 1.7){
    SpaceStationtoShop();
    }
@@ -63,7 +63,7 @@ if(GameObject.Find("SpaceShipPlinthDummy").transform.position.y <= 3.7){
 ShoptoSpaceStation();
 
     if(GameObject.Find("SpaceShipPlinthDummy").transform.position.y >= 3.3){
-    Application.LoadLevelAsync("SpaceStation");
+    Application.LoadLevel("SpaceStation");
 
 }
 

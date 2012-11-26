@@ -61,7 +61,7 @@ if (Plinth == true){
    }
    
     if(GameObject.Find("SpaceShipPlinthDummy").transform.position.y <= -1.7){
-    Application.LoadLevelAsync("Shop");
+    Application.LoadLevel("Shop");
     }
 }
 
@@ -92,7 +92,7 @@ GUI.depth = GUIDEPTH;
     ShopState.ShopState("Roadside");
     ScenetoLoad.ScenetoLoad = "Shop";
     
-    Application.LoadLevelAsync("RoadSideAssistanceArrival");
+    Application.LoadLevel("RoadSideAssistanceArrival");
     }
     
     if(Application.loadedLevelName == "SpaceStation"){

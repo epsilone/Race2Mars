@@ -12,7 +12,7 @@ MoveSpaceStation();
 
 if(GameObject.Find("Counter").GetComponent(KMCounter).KM >= StageEnd){
 ScenetoLoad.ScenetoLoad = "SpaceStation";
-Application.LoadLevelAsync("ArrivingSpaceStation");
+Application.LoadLevel("ArrivingSpaceStation");
 }
 
 }
